@@ -3,4 +3,5 @@
 ###**RECEITAS**
 
 - Strogonoff de frango
+- Pavê
 
